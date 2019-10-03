@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>198.0.0</Version>
+    <AssemblyVersion>2019.9.23.0</AssemblyVersion>
+    <FileVersion>2019.9.23.0</FileVersion>
+    <Company>Benner Sistemas S.A.</Company>
+    <Product>Product AnotherStandardClassLibrary</Product>
+    <Authors>Henrique M</Authors>
+    <PackageId>Benner.AnotherStandardClassLibrary</PackageId>
+    <AssemblyName>Benner.AnotherStandardClassLibrary</AssemblyName>
+    <RootNamespace>Benner.AnotherStandardClassLibrary</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

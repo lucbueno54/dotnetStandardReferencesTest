@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Benner.NetStandardClassLibrary</AssemblyName>
+    <RootNamespace>Benner.NetStandardClassLibrary</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>19.9.0</Version>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>Henrique M</Authors>
+    <Company>Benner Sistemas S.A.</Company>
+    <Product>Product Benner.NetStandardClassLibrary</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AnotherStandardClassLibrary\AnotherStandardClassLibrary.csproj" />
+    <ProjectReference Include="..\FrameworkClassLibrary\FrameworkClassLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
