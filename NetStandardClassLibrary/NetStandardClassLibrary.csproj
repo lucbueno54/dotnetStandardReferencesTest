@@ -2,13 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>Benner.NetStandardClassLibrary</AssemblyName>
-    <RootNamespace>Benner.NetStandardClassLibrary</RootNamespace>
+    <AssemblyName>Nuget.NetStandardClassLibrary</AssemblyName>
+    <RootNamespace>Nuget.NetStandardClassLibrary</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>19.9.0</Version>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Authors>Henrique M</Authors>
-    <Company>Benner Sistemas S.A.</Company>
+    <Authors></Authors>
+    <Company></Company>
     <Product>Product Benner.NetStandardClassLibrary</Product>
   </PropertyGroup>
 

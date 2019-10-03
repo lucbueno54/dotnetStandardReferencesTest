@@ -5,12 +5,12 @@
     <Version>198.0.0</Version>
     <AssemblyVersion>2019.9.23.0</AssemblyVersion>
     <FileVersion>2019.9.23.0</FileVersion>
-    <Company>Benner Sistemas S.A.</Company>
-    <Product>Product AnotherStandardClassLibrary</Product>
-    <Authors>Henrique M</Authors>
-    <PackageId>Benner.AnotherStandardClassLibrary</PackageId>
-    <AssemblyName>Benner.AnotherStandardClassLibrary</AssemblyName>
-    <RootNamespace>Benner.AnotherStandardClassLibrary</RootNamespace>
+    <Company></Company>
+    <Product></Product>
+    <Authors></Authors>
+    <PackageId>nuget.AnotherStandardClassLibrary</PackageId>
+    <AssemblyName>Nuget.AnotherStandardClassLibrary</AssemblyName>
+    <RootNamespace>Nuget.AnotherStandardClassLibrary</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
